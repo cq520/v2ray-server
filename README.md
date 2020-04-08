@@ -7,7 +7,7 @@
 
 删除命令：
 
-<pre><code class="language-bash">wget -O go.sh https://raw.githubusercontent.com/cq520/v2ray-server/master/v2ray/go.sh && bash go.sh --remove</code></pre>
+<pre><code class="language-bash">wget -O go.sh https://raw.githubusercontent.com/cq520/v2ray-server/master/go.sh && bash go.sh --remove</code></pre>
 
 常用命令：
 
