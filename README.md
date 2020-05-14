@@ -1,4 +1,4 @@
-# v2ray-server服务的
+﻿# v2ray-server服务的
 
 
 安装命令：
@@ -17,4 +17,4 @@ service v2ray status
 service v2ray reload
 service v2ray restart
 service v2ray force-reload
-</code></pre>
+</code></pre>.
