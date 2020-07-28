@@ -1,4 +1,4 @@
-﻿# v2ray-server服务的
+# v2ray-server服务的1
 
 
 安装命令：
